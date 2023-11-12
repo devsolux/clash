@@ -16,7 +16,7 @@ import (
 	"github.com/devsolux/clash/transport/socks5"
 	"github.com/devsolux/clash/transport/vmess"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 )
 
 const (

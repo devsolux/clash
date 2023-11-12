@@ -14,7 +14,7 @@ import (
 	"github.com/devsolux/clash/log"
 	"github.com/devsolux/clash/tunnel/statistic"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 	"github.com/go-chi/render"

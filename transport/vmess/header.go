@@ -11,7 +11,7 @@ import (
 	"hash/crc32"
 	"time"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 
 	"github.com/devsolux/clash/tunnel/statistic"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"

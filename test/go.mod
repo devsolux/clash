@@ -14,7 +14,7 @@ require (
 replace github.com/devsolux/clash => ../
 
 require (
-	github.com/devsolux/protobytes v0.0.0-20230617041236-6500a9f4f158 // indirect
+	github.com/devsolux/clash/protobytes v0.0.0-20230617041236-6500a9f4f158 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dlclark/regexp2 v1.10.0 // indirect

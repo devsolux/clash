@@ -9,7 +9,7 @@ import (
 
 	"github.com/devsolux/clash/component/auth"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 )
 
 const Version = 0x04

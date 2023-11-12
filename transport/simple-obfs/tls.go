@@ -9,7 +9,7 @@ import (
 
 	"github.com/devsolux/clash/common/pool"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 )
 
 const (

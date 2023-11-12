@@ -11,7 +11,7 @@ import (
 
 	"github.com/devsolux/clash/component/auth"
 
-	"github.com/devsolux/protobytes"
+	"github.com/devsolux/clash/protobytes"
 )
 
 // Error represents a SOCKS error
