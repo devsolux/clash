@@ -13,11 +13,9 @@ import (
 
 func downloadMMDB(path string) (err error) {
 	resp, err := http.Get("https://cdn.jsdelivr.net/gh/Dreamacro/maxmind-geoip@release/Country.mmdb")
+	// resp, err := http.Get("https://github.com/devsolux/maxmind-geoip/releases/latest/download/Country.mmdb")
 	if err != nil {
-	    resp, err := http.Get("https://github.com/devsolux/maxmind-geoip/releases/latest/download/Country.mmdb")
-	    if err != nil {
-		    return
-		}
+	    return
 	}
 	defer resp.Body.Close()
 
